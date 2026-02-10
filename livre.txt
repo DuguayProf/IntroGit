@@ -1,1 +1,10 @@
 Il était une fois...
+
+
+Mr et Mrs Dursley, qui habitaient au 4, Privet Drive, 
+avaient toujours affirmé avec la plus grande fierté qu'ils 
+étaient parfaitement normaux, merci pour eux. Jamais quiconque 
+n'aurait imaginé qu'ils puissent se trouver impliqués dans 
+quoi que ce soit d'étrange ou de mystérieux. Les Dursley 
+étaient du genre à dire que tout cela, c'était des histoires 
+à dormir debout.
