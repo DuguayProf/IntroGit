@@ -139,11 +139,12 @@ Un soir, alors qu'il fouillait dans la bibliothèque numérique à la recherche 
 
 Il passait des heures à tenter de résoudre le puzzle, mais chaque fois qu'il pensait avoir trouvé une solution, le code changeait et se transformait, rendant sa tâche plus difficile. Élio était déterminé. Ce défi semblait plus grand que tout ce qu'il avait pu expérimenter dans sa vie de programmeur solitaire. Il savait que ce fichier renfermait quelque chose de plus grand que des simples lignes de code.
 
-Finalement, après plusieurs nuits passées à essayer, il comprit que le code n’était pas destiné à être décrypté de manière classique. Il devait comprendre la logique profonde du programme. Ce n’était pas un simple algorithme, mais une sorte de simulation de pensée, un système d’intelligence artificielle rudimentaire, presque comme un être vivant qui apprenait et évoluait.
+Finalement, après plusieurss nuits passées à essayer, il comprit que le code n’était pas destiné à être décrypté de manière classique. Il devait comprendre la logique profonde du programme. Ce n’était pas un simple algorithme, mais une sorte de simulation de pensée, un système d’intelligence artificielle rudimentaire, presque comme un être vivant qui apprenait et évoluait.
 
 Élio décida alors de tester une théorie audacieuse : il allait essayer de communiquer avec l'intelligence derrière le code, de manière humaine, en lui posant des questions. Il écrivit :
 
 LE PIGEON PARLE AVEC UNE VOIX DE MICRO À 2$ :
+
 
 “JEFFREY… LE MULTIVERS EST EN TRAIN DE BUFFER.”
 
