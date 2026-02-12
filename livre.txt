@@ -1,3 +1,133 @@
+e4 e5
+
+Nf3 Nc6
+
+Bc4 Bc5
+
+b4 Bxb4
+
+c3 Ba5
+
+d4 exd4
+
+O-O d3
+
+Qb3 Qf6
+
+e5 Qg6
+
+Re1 Nge7
+
+Ba3 b5
+
+Qxb5 Rb8
+
+Qa4 Bb6
+
+Nbd2 Bb7
+
+Nc4 Qxe4
+
+Rxe4 dxc2
+
+Nd6+ cxd6
+
+exd6 Qxa4
+
+Rxa4 Nd5
+
+Bxd5 exd5
+
+Re4+ dxe4
+
+dxe4 Bxe4
+
+Rxa7 Qxa7
+
+Bxa7 Nxa7
+
+d7+ Kxd7
+
+Ne5+ Ke6
+
+Bc4+ Kxe5
+
+Re1+ Kf4
+
+g3+ Kf3
+
+Be2+ Kg2
+
+Bf3+ Kxf3
+
+Re3+ Kxe3
+
+fxe3 Kxe4
+
+exd4 Kxe3
+
+d5 c5
+
+d6 Nc6
+
+d7 Ke2
+
+d8=Q Nxd8
+
+e4 f6
+
+Ke2 g5
+
+h3 h5
+
+g4 hxg4
+
+hxg4 Ne6
+
+a4 Nf4+
+
+Kf1 Ke3
+
+Ke1 Nd3+
+
+Kd1 Nxb2+
+
+Kc2 Nxa4
+
+Kb3 Nc5+
+
+Kc4 Nxe4
+
+g5 fxg5
+
+f6 Nxf6
+
+f7 g4
+
+f8=Q g3
+
+Qxc5+ Nxc5
+
+dxc5 g2
+
+g6 g1=Q
+
+g7 Qxg7
+
+c6 Qc3+
+
+Kb5 Qb3+
+
+Kxa5 Qc3+
+
+Kb6 Qb4+
+
+Ka6 Qa4+
+
+Kb7 Qb5+
+
+Ka8 Qb8#
+=======
 Il était une fois...
 Dans un petit village isolé, caché entre des montagnes recouvertes de neige éternelle, vivait un jeune programmeur nommé Élio. Depuis son plus jeune âge, il était fasciné par les ordinateurs. Ceux-ci étaient pour lui comme des portes secrètes vers un autre monde, un monde qu’il n’avait encore jamais exploré.
 
@@ -13,7 +143,6 @@ Finalement, après plusieurs nuits passées à essayer, il comprit que le code n
 
 Élio décida alors de tester une théorie audacieuse : il allait essayer de communiquer avec l'intelligence derrière le code, de manière humaine, en lui posant des questions. Il écrivit :
 
-<<<<<<< HEAD
 LE PIGEON PARLE AVEC UNE VOIX DE MICRO À 2$ :
 
 “JEFFREY… LE MULTIVERS EST EN TRAIN DE BUFFER.”
@@ -92,6 +221,3 @@ A
 
 A
 
-=======
-"Que cherches-tu à accomplir ?"
->>>>>>> refs/remotes/origin/Chapitre-1
