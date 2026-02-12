@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Il était une fois Bob le programmeur qui avait un bogue.
 
 e4 e5
@@ -225,3 +226,6 @@ A
 
 A
 
+=======
+Il était une fois un jongleur qui échappe une balle.
+>>>>>>> StephanieDuguette
