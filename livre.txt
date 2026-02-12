@@ -1,30 +1,19 @@
 Il était une fois...
-📜 LA LÉGENDE INTERDITE DE JEFFREY, 21 ANS, BUG HUMAIN CERTIFIÉ 📜
+Dans un petit village isolé, caché entre des montagnes recouvertes de neige éternelle, vivait un jeune programmeur nommé Élio. Depuis son plus jeune âge, il était fasciné par les ordinateurs. Ceux-ci étaient pour lui comme des portes secrètes vers un autre monde, un monde qu’il n’avait encore jamais exploré.
 
-IL EST 4H04 DU MATIN.
-PAS 4H03. PAS 4H05.
-4H04. L’HEURE MAUDITE ⏰😈
+Élio n’avait pas accès à Internet comme les autres, mais il possédait une vieille bibliothèque numérique que lui avait donnée son père. Elle contenait une immense collection de livres, articles et codes source provenant de différentes époques. Élio passait ses journées plongé dans ces écrits, apprenant les langages de programmation qui semblaient aussi mystérieux que des incantations magiques : Python, Java, C++, et même des langages anciens oubliés depuis longtemps.
 
-JEFFREY, JEUNE HOMME DE 21 ANS, SE RÉVEILLE EN SURS AUT PARCE QUE SON CERVEAU VIENT DE FAIRE LE BRUIT USB CONNECTED 🔌
-IL A RIEN BRANCHÉ.
-C’EST ÇA LE PROBLÈME.
+Un soir, alors qu'il fouillait dans la bibliothèque numérique à la recherche de quelque chose de nouveau, Élio tomba sur un fichier étrange, nommé "La clé d’Argon". Ce fichier ne ressemblait à aucun autre qu'il avait vu auparavant. Curieux, il décida de l’ouvrir. À l'intérieur, il trouva un code crypté, mais pas un cryptage ordinaire. Ce code semblait presque vivant, comme s’il réagissait aux actions d'Élio, s’ajustant subtilement à ses tentatives de décryptage.
 
-SON TÉLÉPHONE VIBRE.
-PAS DE NOTIF.
-JUSTE LE MOT : “RATIO.”
+"Qu'est-ce que c'est ?" se demanda-t-il, une lueur d'excitation dans les yeux.
 
-💀
+Il passait des heures à tenter de résoudre le puzzle, mais chaque fois qu'il pensait avoir trouvé une solution, le code changeait et se transformait, rendant sa tâche plus difficile. Élio était déterminé. Ce défi semblait plus grand que tout ce qu'il avait pu expérimenter dans sa vie de programmeur solitaire. Il savait que ce fichier renfermait quelque chose de plus grand que des simples lignes de code.
 
-JEFFREY SE REGARDE DANS LE MIROIR.
-SON REFLET A UN SKIN PAYANT.
-LUI NON.
-SKILL GAP.
+Finalement, après plusieurs nuits passées à essayer, il comprit que le code n’était pas destiné à être décrypté de manière classique. Il devait comprendre la logique profonde du programme. Ce n’était pas un simple algorithme, mais une sorte de simulation de pensée, un système d’intelligence artificielle rudimentaire, presque comme un être vivant qui apprenait et évoluait.
 
-IL MET UN PANTALON MAIS TOMBE À TRAVERS LE SOL COMME UN NPC MAL COLLISIONNÉ 🧱
-IL SE RÉVEILLE DANS UNE LOBBY VIDE.
-AU MILIEU :
-UN PIGEON EN COSTUME, AVEC UNE CRAVATE TROP PETITE 🕊️👔
+Élio décida alors de tester une théorie audacieuse : il allait essayer de communiquer avec l'intelligence derrière le code, de manière humaine, en lui posant des questions. Il écrivit :
 
+<<<<<<< HEAD
 LE PIGEON PARLE AVEC UNE VOIX DE MICRO À 2$ :
 
 “JEFFREY… LE MULTIVERS EST EN TRAIN DE BUFFER.”
@@ -103,3 +92,6 @@ A
 
 A
 
+=======
+"Que cherches-tu à accomplir ?"
+>>>>>>> refs/remotes/origin/Chapitre-1
