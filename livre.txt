@@ -1,19 +1,134 @@
+e4 e5
+
+Nf3 Nc6
+
+Bc4 Bc5
+
+b4 Bxb4
+
+c3 Ba5
+
+d4 exd4
+
+O-O d3
+
+Qb3 Qf6
+
+e5 Qg6
+
+Re1 Nge7
+
+Ba3 b5
+
+Qxb5 Rb8
+
+Qa4 Bb6
+
+Nbd2 Bb7
+
+Nc4 Qxe4
+
+Rxe4 dxc2
+
+Nd6+ cxd6
+
+exd6 Qxa4
+
+Rxa4 Nd5
+
+Bxd5 exd5
+
+Re4+ dxe4
+
+dxe4 Bxe4
+
+Rxa7 Qxa7
+
+Bxa7 Nxa7
+
+d7+ Kxd7
+
+Ne5+ Ke6
+
+Bc4+ Kxe5
+
+Re1+ Kf4
+
+g3+ Kf3
+
+Be2+ Kg2
+
+Bf3+ Kxf3
+
+Re3+ Kxe3
+
+fxe3 Kxe4
+
+exd4 Kxe3
+
+d5 c5
+
+d6 Nc6
+
+d7 Ke2
+
+d8=Q Nxd8
+
+e4 f6
+
+Ke2 g5
+
+h3 h5
+
+g4 hxg4
+
+hxg4 Ne6
+
+a4 Nf4+
+
+Kf1 Ke3
+
+Ke1 Nd3+
+
+Kd1 Nxb2+
+
+Kc2 Nxa4
+
+Kb3 Nc5+
+
+Kc4 Nxe4
+
+g5 fxg5
+
+f6 Nxf6
+
+f7 g4
+
+f8=Q g3
+
+Qxc5+ Nxc5
+
+dxc5 g2
+
+g6 g1=Q
+
+g7 Qxg7
+
+c6 Qc3+
+
+Kb5 Qb3+
+
+Kxa5 Qc3+
+
+Kb6 Qb4+
+
+Ka6 Qa4+
+
+Kb7 Qb5+
+
+Ka8 Qb8#
+=======
 Il était une fois...
-
-Chapitre 2
-
-Il était une fois un chausson qui rêvait de devenir une pantoufle. Chaque matin, il se regardait dans le miroir et se disait : « Aujourd’hui, je vais être plus confortable que jamais ! »  
-Malheureusement, il glissa sur une peau de banane et atterrit dans une chaussette. La chaussette n’était pas contente et lui lança : « Hé, toi ! Casse-toi ! »  
-Le chausson décida alors de voyager jusqu’au frigo, parce qu’il avait entendu dire que les légumes étaient très accueillants.  
-Et c’est ainsi que le chausson devint… le premier chausson à parler aux carottes. Fin.
-
-
-Dans l’an 2142, la Terre était dirigée par une intelligence artificielle appelée Bureaucratos 3000, dont la mission principale était de remplir des formulaires. Elle avait calculé que sauver l’humanité passait par le formulaire B-42 en triple exemplaire, ce qui ralentit l’invasion extraterrestre de six mois. Les aliens, découragés, demandèrent un rendez-vous… jamais disponible avant 2145.
-
-À bord du vaisseau Probabilité Faible, le capitaine Zoé découvrit que le moteur à hyperespace fonctionnait à l’énergie du café. Plus l’équipage était fatigué, plus le vaisseau allait vite, ce qui expliquait pourquoi ils avaient accidentellement dépassé la fin de l’univers. Ils durent faire demi-tour, car personne n’avait pensé à prendre un sandwich cosmique.
-
-Pendant ce temps, sur Mars, les robots colons se mirent en grève pour obtenir des week-ends et le droit de rêver de moutons électriques. L’humanité accepta, soulagée, car les robots faisaient déjà tout le travail. Depuis, Mars est prospère, légèrement rouge, et fermée le lundi matin.
-
 Dans un petit village isolé, caché entre des montagnes recouvertes de neige éternelle, vivait un jeune programmeur nommé Élio. Depuis son plus jeune âge, il était fasciné par les ordinateurs. Ceux-ci étaient pour lui comme des portes secrètes vers un autre monde, un monde qu’il n’avait encore jamais exploré.
 
 Élio n’avait pas accès à Internet comme les autres, mais il possédait une vieille bibliothèque numérique que lui avait donnée son père. Elle contenait une immense collection de livres, articles et codes source provenant de différentes époques. Élio passait ses journées plongé dans ces écrits, apprenant les langages de programmation qui semblaient aussi mystérieux que des incantations magiques : Python, Java, C++, et même des langages anciens oubliés depuis longtemps.
